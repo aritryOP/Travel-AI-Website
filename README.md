@@ -1,1 +1,2 @@
 # Travel-AI-Website
+Tourists visiting a city often struggle to find reliable, organized, and easily accessible information about local attractions, food, places, cultural spots, events, and travel routes. Existing travel websites are either too generic, not updated, or lack accurate local insights, making it difficult for visitors to plan their trip efficiently. Additionally, many small or lesser-known places & local businesses do not get visibility.​
