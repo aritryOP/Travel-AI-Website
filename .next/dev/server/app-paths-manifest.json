@@ -1,0 +1,10 @@
+{
+  "/api/destinations/route": "app/api/destinations/route.js",
+  "/api/favorites/route": "app/api/favorites/route.js",
+  "/api/itinerary/route": "app/api/itinerary/route.js",
+  "/api/nearby-hotels/route": "app/api/nearby-hotels/route.js",
+  "/api/search-destinations/route": "app/api/search-destinations/route.js",
+  "/explore/page": "app/explore/page.js",
+  "/page": "app/page.js",
+  "/trip-planner/page": "app/trip-planner/page.js"
+}
