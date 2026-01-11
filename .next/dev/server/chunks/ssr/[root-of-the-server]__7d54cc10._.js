@@ -5,4 +5,8 @@ const mod = __turbopack_context__.x("next/dist/shared/lib/no-fallback-error.exte
 
 module.exports = mod;
 }),
+"[project]/app/layout.tsx [app-rsc] (ecmascript, Next.js Server Component)", ((__turbopack_context__) => {
+
+__turbopack_context__.n(__turbopack_context__.i("[project]/app/layout.tsx [app-rsc] (ecmascript)"));
+}),
 ];
